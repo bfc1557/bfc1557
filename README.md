@@ -1,16 +1,9 @@
 ### Olaaa!!! 👋
 
-<!--
-**bfc1557/bfc1557** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 No momento estou a aprender Python
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 No momento não estou a trabalhar em nenhum projeto grande.
+- 🌱 No momento estou a aprender Python.
+- 👯 Procuro colaborar no mundo da programação.
+- 🤔 Estou a procurar de conhecimento.
+- 💬 Respondo qualquer questão sobre mim.
+- 📫 Contato: costa.bruno1557@gmail.com
+- 🤝 Em parceria com @apascoa
