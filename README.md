@@ -1,4 +1,4 @@
-### Olaaa!!! 👋
+### Olaaa!!!!!! 👋
 
 - 🔭 No momento não estou a trabalhar em um projeto grande.
 - 🌱 Atualmente a aprender Python.
