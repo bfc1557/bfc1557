@@ -17,6 +17,8 @@ I chosed programming because:
 <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
 
 ### How to contact me
+I am Portuguese and I can speak English, you can contact me in these languages.
+
  - Email: costa.bruno1557@gmail.com
  - Discord: bfc#3295
 
