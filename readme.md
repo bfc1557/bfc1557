@@ -1,4 +1,4 @@
-### Hello friend Githuber, 👋
+### 👋 Hello Githuber friend,
 Welcome to my tiny spot on github. This is my workspace where I share codes, interact with others programmers and solve problems.
 
 ### About Me
