@@ -16,8 +16,6 @@ I chosed programming because:
 ### My Skills
 <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
 
- To work I use ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-
 ### How to contact me
  - Email: costa.bruno1557@gmail.com
  - Discord: bfc#3295
