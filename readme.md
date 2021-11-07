@@ -4,6 +4,7 @@ Welcome to my tiny spot on github. This is my workspace where I share codes, int
 ### About Me
 I'm a 17yo programmer that is studying at [ESEN](https://www.esenviseu.net/). 
 I am fast thinker, persistent and creative. Like every human I have weakness, that is, I dont like to work in group. But I try to do when it is needed.
+I love Anime, Games, Pets, Milk and coffee.
 
 I chosed programming because:
 - Is a modern and dinamic thing that is always changing it self and the world;
@@ -12,13 +13,16 @@ I chosed programming because:
 - Always motivated even if it seems impossible;
 - I love coffee and innovate.
 
-- 🔭 No momento não estou a trabalhar em um projeto grande.
-- 🌱 Atualmente a aprender Python.
-- 👯 Procuro colaborar no mundo da programação.
-- 🤔 Estou a procurar de conhecimento.
-- 💬 Respondo qualquer questão sobre mim.
-- 📫 Contato: costa.bruno1557@gmail.com
-- 🤝 Em parceria com:
+### My Skills
+<img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
 
+ To work I use ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+
+### How to contact me
+ - Email: costa.bruno1557@gmail.com
+ - Discord: bfc#3295
+
+### Partners
 [<img src="https://avatars.githubusercontent.com/u/51238719?s=400&v=4" width=115 > <br> <sub> APáscoa </sub>](https://github.com/apascoa) |
 | :---: |
+
