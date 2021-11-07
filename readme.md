@@ -1,6 +1,8 @@
 ### Hello friend Githuber, 👋
 Welcome to my tiny spot on github. This is my workspace where I share codes, interact with others programmers and solve problems.
 
+### About Me
+Im a young programmer that is studying at [ESEN](https://https://www.esenviseu.net/).
 - 🔭 No momento não estou a trabalhar em um projeto grande.
 - 🌱 Atualmente a aprender Python.
 - 👯 Procuro colaborar no mundo da programação.
