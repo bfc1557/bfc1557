@@ -1,4 +1,5 @@
-### Olaaa!!!!!! 👋
+### Hello friend Githuber, 👋
+welcome to my tiny spot on github. This is my workspace where I share codes, interact with others programmers and solve problems.
 
 - 🔭 No momento não estou a trabalhar em um projeto grande.
 - 🌱 Atualmente a aprender Python.
