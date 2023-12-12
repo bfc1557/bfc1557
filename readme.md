@@ -27,6 +27,6 @@ I speak Portuguese and English, you can contact me in those languages.
  - Discord: bfc#3295
 
 ### Partners
-[<img src="https://avatars.githubusercontent.com/u/51238719?s=400&v=4" width=115 > <br> <sub> Nerex </sub>](https://github.com/[apascoa](https://github.com/Nerexbcd)) |
+[<img src="https://avatars.githubusercontent.com/u/51238719?s=400&v=4" width=115 > <br> <sub> Nerex </sub>](https://github.com/Nerexbcd) |
 | :---: |
 
